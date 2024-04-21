@@ -730,7 +730,7 @@ section {
 .company-logo{
   width: 100%;
   border-radius: 50%;
-  border: 2px solid #fff4df;
+  border: 3px solid #fff4df;
 
 }
 .services .icon i {
@@ -769,7 +769,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/testimonials-bg.png") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
