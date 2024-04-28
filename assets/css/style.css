@@ -524,6 +524,9 @@ section {
   .justify-content-center{
     overflow: auto;
   }
+  .testimonials {
+    background-position: right !important;
+  }
 
   .breadcrumbs ol {
     display: block;
