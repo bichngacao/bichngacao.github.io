@@ -521,6 +521,10 @@ section {
     display: block !important;
   }
 
+  .justify-content-center{
+    overflow: auto;
+  }
+
   .breadcrumbs ol {
     display: block;
   }
@@ -1170,7 +1174,7 @@ section {
 
 .contact .info-box p {
   padding: 0;
-  line-height: 30px;
+  line-height: 28px;
   font-size: 14px;
   margin-bottom: 0;
 }
