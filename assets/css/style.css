@@ -486,9 +486,7 @@ section {
 }
 
 @media (max-width: 992px) {
-  .breadcrumbs {
-    margin-top: 60px;
-  }
+
 }
 
 .breadcrumbs h2 {
